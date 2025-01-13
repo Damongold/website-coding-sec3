@@ -1,0 +1,30 @@
+table {
+    padding: 15px;
+    border: 2px black solid;
+    margin: auto;
+}
+.invisible {
+    visibility: hidden;
+}
+body { 
+    background-image: linear-gradient(to right, red , yellow);
+}
+.boxtext {
+    width: 250px;
+}
+#imagetwo {
+    display: inline-block;
+    position: relative;
+    left: 260px;
+    bottom: 270px;
+}
+p {
+    margin: 5px;
+    color: white;
+    border: 3px black;
+    padding: 3px;
+    font-size: 20px;
+}
+u {
+    color: antiquewhite;
+}
